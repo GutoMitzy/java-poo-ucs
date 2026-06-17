@@ -1,0 +1,11 @@
+{
+  "@id" : 1,
+  "nome" : "João",
+  "amigo" : {
+    "@id" : 2,
+    "nome" : "Maria",
+    "amigo" : 1,
+    "amigos" : [ ]
+  },
+  "amigos" : [ ]
+}

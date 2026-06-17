@@ -1,0 +1,21 @@
+{
+  "@id" : 1,
+  "nome" : "Donald",
+  "amigo" : null,
+  "amigos" : [ {
+    "@id" : 2,
+    "nome" : "Huguinho",
+    "amigo" : null,
+    "amigos" : [ 1, {
+      "@id" : 3,
+      "nome" : "Luizinho",
+      "amigo" : null,
+      "amigos" : [ ]
+    } ]
+  }, {
+    "@id" : 4,
+    "nome" : "Zézinho",
+    "amigo" : null,
+    "amigos" : [ ]
+  }, 3 ]
+}
